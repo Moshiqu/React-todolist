@@ -1,0 +1,34 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    margin: 10px auto;
+    text-align: center;
+}
+
+.input_add_box {
+    text-align: center;
+}
+
+.ant-col {
+    margin: 10px 0;
+    padding-right: 0 !important;
+}
+
+.btn {
+    float: right;
+}
+
+.input-box {
+    width: 170px;
+}
+
+.no-data-img {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
